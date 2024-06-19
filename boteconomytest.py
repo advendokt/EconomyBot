@@ -379,7 +379,7 @@ async def roulette(ctx):
 
 
 
-bot.run("MTIxMzg2ODM0NDc2NDAxMDUyNg.GBphqg.faklmETC-iVKiTTT-sdVAKWmPXUZLInEWd-WWw")
+bot.run("...")
 
 # Закрытие соединения с базой данных при завершении работы бота
 @bot.event
